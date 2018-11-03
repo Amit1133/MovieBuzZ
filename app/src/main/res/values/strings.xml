@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Movie BuzZ</string>
+    <string name="FACEBOOK_APP_ID">329791527753706</string>
+    <string name="ACCOUNT_KIT_CLIENT_TOKEN">26b60868a1f9e21511b21dcaedd002bf</string>
+    <string name="ak_login_protocol_scheme">ak26b60868a1f9e21511b21dcaedd002bf</string>
+    <string name="fb_login_protocol_scheme">fb329791527753706</string>
+</resources>
